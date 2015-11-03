@@ -1,22 +1,22 @@
 # CSWAnimatedTextViewExample
 
-[![License](https://img.shields.io/cocoapods/l/CSWAnimagedTextView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimagedTextView)
-[![Platform](https://img.shields.io/cocoapods/p/CSWAnimagedTextView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimagedTextView)
+[![License](https://img.shields.io/cocoapods/l/CSWAnimagedImageView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimagedImageView)
+[![Platform](https://img.shields.io/cocoapods/p/CSWAnimagedImageView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimagedImageView)
 
-A Text View that shows the texts as a color gradient that animates
+An Image View that shows the image as a color gradient that animates
 
 
 # Screenshot
 
 ### iPhone
 
-<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextViewExample/master/ScreenShot/ScreenShot4.png"/></p>
+<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedImageViewExample/master/ScreenShot/ScreenShot1.gif"/></p>
 <p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextViewExample/master/ScreenShot/ScreenShot2.png"/></p>
 <p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextViewExample/master/ScreenShot/ScreenShot3.png"/></p>
 
 ## Installation
 
-Currently the way to integrate CSWAnimatedTextView is to add CSWAnimatedTextView.m and CSWAnimatedTextView.h to your project. 
+Currently the way to integrate CSWAnimatedImageView is to add CSWAnimatedTextView.m and CSWAnimatedTextView.h to your project. 
 
 ## How to get started
 
@@ -26,25 +26,23 @@ colorOuter  - The start and end colors of the gradient
 colorInner  - The middle color of the gradient
 duration    - Animation loop length
 reverse     - Should animation reverse direction
-fontSize    - Size of font in Text View
-fontName    - Name of the font in Text View
+imageName    - Name of the image in the View
 startPoint  - Startpoint of the gradient
 endPoint    - Endpoint of the gradient
-titleString - Text of the Text View
 
  can be added to your controller's view using Interface Builder or programmatically with the following code:
 identity inspector Custom Class
 
 ## Podfile
 ```
-pod 'CSWAnimatedTextView'
+pod 'CSWAnimatedImageView'
 pod 'NKOColorPickerView'
 
 ``` 
 
 # Class Project
 
-[CSWAnimatedTextView class files](https://github.com/n6xej/CSWAnimatedTextView)
+[CSWAnimatedImageView class files](https://github.com/n6xej/CSWAnimatedImageView)
 
 ## Author
 
@@ -74,7 +72,7 @@ OR OTHER DEALINGS IN THE SOFTWARE LICENSE
 Attribution
 --------------
 
-CSWAnimatedTextViewExample uses portions of code from the following sources.
+CSWAnimatedImageViewExample uses portions of code from the following sources.
 
 | Component     | Description   | License  |
 | ------------- |:-------------:| -----:|
