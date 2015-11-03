@@ -11,8 +11,8 @@ An Image View that shows the image as a color gradient that animates
 ### iPhone
 
 <p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedImageViewExample/master/ScreenShot/ScreenShot0.gif"/></p>
-<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextViewExample/master/ScreenShot/ScreenShot2.png"/></p>
-<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextViewExample/master/ScreenShot/ScreenShot3.png"/></p>
+<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedImageViewExample/master/ScreenShot/ScreenShot2.png"/></p>
+<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedImageViewExample/master/ScreenShot/ScreenShot3.png"/></p>
 
 ## Installation
 
