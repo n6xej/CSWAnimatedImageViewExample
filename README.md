@@ -1,7 +1,7 @@
 # CSWAnimatedTextViewExample
 
-[![License](https://img.shields.io/cocoapods/l/CSWAnimagedImageView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimagedImageView)
-[![Platform](https://img.shields.io/cocoapods/p/CSWAnimagedImageView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimagedImageView)
+[![License](https://img.shields.io/cocoapods/l/CSWAnimagedImateView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimatedImageView)
+[![Platform](https://img.shields.io/cocoapods/p/CSWAnimagedImateView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimatedImageView)
 
 An Image View that shows the image as a color gradient that animates
 
