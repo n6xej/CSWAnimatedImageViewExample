@@ -1,4 +1,4 @@
-# CSWAnimatedTextViewExample
+# CSWAnimatedImageViewExample
 
 [![License](https://img.shields.io/cocoapods/l/CSWAnimatedImageView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimatedImageView)
 [![Platform](https://img.shields.io/cocoapods/p/CSWAnimatedImageView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimatedImageView)
